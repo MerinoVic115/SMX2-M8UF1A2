@@ -56,4 +56,4 @@ ________________________
 
 8. Flujo de trabajo (navegador, petición, servidor y respuesta):
 
-   ![Flujo de trabajo](https://github.com/MerinoVic115/SMX2-M8UF1A2/blob/main/4.png "Flujo de trabajo)
+   ![Flujotrabajo](https://github.com/MerinoVic115/SMX2-M8UF1A2/blob/main/4.png "Flujo de trabajo)
