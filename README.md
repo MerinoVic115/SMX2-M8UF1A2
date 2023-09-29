@@ -26,8 +26,8 @@ ________________________
    |Google Docs|![Tick](https://github.com/MerinoVic115/SMX2-M8UF1A2/blob/main/Captura%20de%20pantalla%202023-09-29%20160012.png "Tick")|
    |Google Slides|![Tick](https://github.com/MerinoVic115/SMX2-M8UF1A2/blob/main/Captura%20de%20pantalla%202023-09-29%20160012.png "Tick")|
    |Google Sheets|![Tick](https://github.com/MerinoVic115/SMX2-M8UF1A2/blob/main/Captura%20de%20pantalla%202023-09-29%20160012.png "Tick")|
-   |Google Calendar|![Tick](https://github.com/MerinoVic115/SMX2-M8UF1A2/blob/main/3.png "Tick")|
-   |Google Meet|![Tick](https://github.com/MerinoVic115/SMX2-M8UF1A2/blob/main/3.png "Tick")|
+   |Google Calendar|![Calendario](https://github.com/MerinoVic115/SMX2-M8UF1A2/blob/main/2.png "Calendario")|
+   |Google Meet|![Google Meet](https://github.com/MerinoVic115/SMX2-M8UF1A2/blob/main/3.png "Google Meet")|
    |...|...|
 
 6. ¿Qué es HTML?
