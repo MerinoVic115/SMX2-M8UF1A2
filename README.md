@@ -32,7 +32,19 @@ ________________________
 
 6. ¿Qué es HTML?
 
-   **Respuesta:** <span style="color:red">HTML (Lenguaje de Marcado de Hipertexto) es un lenguaje de etiquetado utilizado para crear la estructura y el contenido de una página web. Define cómo se deben mostrar los elementos, como encabezados, párrafos, imágenes y enlaces, en un navegador web.</span>
+   ```
+   <!DOCTYPE html>
+   <html lang="en">
+   <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-AU-Compatible" content=IE=edge">
+        <meta name="viewport" content"width=device-width, initial-scale=1.0>
+    </head>
+    <body>
+
+    <body>
+    </html>
+    ```    
 
 7. ¿Qué es CSS?
 
