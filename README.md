@@ -19,7 +19,14 @@ ________________________
 
 5. Herramientas de Google:
 
-   **Respuesta:** <span style="color:red">Google ofrece una variedad de aplicaciones en línea, como Google Docs (procesador de texto en línea), Google Sheets (hoja de cálculo en línea), Google Slides (herramienta de presentación en línea) y más, que son ampliamente utilizadas para colaboración y productividad en línea.</span>
+   **Respuesta:** 
+
+   |Aplicaciones| Visto|
+   |------------|------|
+   |Google Docs|![Tick]--(https://github.com/MerinoVic115/SMX2-M8UF1A2/blob/main/Captura%20de%20pantalla%202023-09-29%20160012.png "Tick")|
+   |Google Slides|![Tick]--https://github.com/MerinoVic115/SMX2-M8UF1A2/blob/main/Captura%20de%20pantalla%202023-09-29%20160012.png "Tick"|
+   |Google Sheets|![Tick]-- https://github.com/MerinoVic115/SMX2-M8UF1A2/blob/main/Captura%20de%20pantalla%202023-09-29%20160012.png "Tick"|
+   |Google Calendar|![Tick]--https://github.com/MerinoVic115/SMX2-M8UF1A2/blob/main/3.png "Tick"|
 
 6. ¿Qué es HTML?
 
