@@ -23,10 +23,12 @@ ________________________
 
    |Aplicaciones| Visto|
    |------------|------|
-   |Google Docs|![Tick]--(https://github.com/MerinoVic115/SMX2-M8UF1A2/blob/main/Captura%20de%20pantalla%202023-09-29%20160012.png "Tick")|
-   |Google Slides|![Tick]--https://github.com/MerinoVic115/SMX2-M8UF1A2/blob/main/Captura%20de%20pantalla%202023-09-29%20160012.png "Tick"|
-   |Google Sheets|![Tick]-- https://github.com/MerinoVic115/SMX2-M8UF1A2/blob/main/Captura%20de%20pantalla%202023-09-29%20160012.png "Tick"|
-   |Google Calendar|![Tick]--https://github.com/MerinoVic115/SMX2-M8UF1A2/blob/main/3.png "Tick"|
+   |Google Docs|![Tick](https://github.com/MerinoVic115/SMX2-M8UF1A2/blob/main/Captura%20de%20pantalla%202023-09-29%20160012.png "Tick")|
+   |Google Slides|![Tick](https://github.com/MerinoVic115/SMX2-M8UF1A2/blob/main/Captura%20de%20pantalla%202023-09-29%20160012.png "Tick")|
+   |Google Sheets|![Tick](https://github.com/MerinoVic115/SMX2-M8UF1A2/blob/main/Captura%20de%20pantalla%202023-09-29%20160012.png "Tick")|
+   |Google Calendar|![Tick](https://github.com/MerinoVic115/SMX2-M8UF1A2/blob/main/3.png "Tick")|
+   |Google Meet|![Tick](https://github.com/MerinoVic115/SMX2-M8UF1A2/blob/main/3.png "Tick")|
+   |...|...|
 
 6. ¿Qué es HTML?
 
