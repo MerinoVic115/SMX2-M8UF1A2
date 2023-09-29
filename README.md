@@ -17,7 +17,7 @@ ________________________
 
    **Respuesta:** <span style="color:red">Una herramienta de productividad es un software diseñado para facilitar tareas comunes en el entorno de trabajo, como la creación y edición de documentos de texto, hojas de cálculo, presentaciones y otras actividades relacionadas con la oficina o la educación.</span>
 
-5. Herramientas de Google:
+5. [Herramientas de Google:](https://www.google.com/intl/es-419/chrome/browser-tools/ "Enlace de herramientas de Google")
 
    **Respuesta:** 
 
@@ -56,4 +56,4 @@ ________________________
 
 8. Flujo de trabajo (navegador, petición, servidor y respuesta):
 
-   **Respuesta:** <span style="color:red">El flujo de trabajo en una interacción web comienza cuando un usuario solicita una página web en un navegador (petición). El navegador envía esta solicitud al servidor web, que procesa la solicitud y envía la página solicitada de vuelta al navegador (respuesta). El navegador interpreta la página y la muestra al usuario.</span>
+   ![Flujo de trabajo](https://github.com/MerinoVic115/SMX2-M8UF1A2/blob/main/4.png "Flujo de trabajo)
